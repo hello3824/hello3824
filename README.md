@@ -1,17 +1,17 @@
 <h1 align="center">Hi, I'm Yassin 👋</h1>
 
 <p align="center">
-  Full-stack developer from Italy — I design and ship complete products end-to-end,<br/>
-  from database and API to UI and production deployment.
+  Independent developer from Italy — I design and build complete, secure systems on my own,<br/>
+  with a strong focus on encryption and multi-layered security.
 </p>
 
 ---
 
 ### 💻 About me
 
-- 🔭 I build complete web applications end-to-end and ship them to production
-- 🧩 I enjoy turning complex requirements into clean, reliable software
-- 🔒 Focused on secure authentication, payment flows, and solid architecture
+- 🧑‍💻 Independent developer — I design and build complete systems end-to-end, on my own
+- 🔐 Security-first: I engineer encryption and multiple layers of protection into everything I build
+- 🛡️ Not just websites — full systems where security and cryptography come first
 - ⚡ Big on performance, testing, and code that lasts
 - 🌱 Always sharpening my craft
 
