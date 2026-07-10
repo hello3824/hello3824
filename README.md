@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Yassin 👋</h1>
+<h1 align="center">Hi, I'm Mirai 👋</h1>
 
 <p align="center">
-  Independent developer from Italy — I design and build complete, secure systems on my own,<br/>
+  Independent developer — I design and build complete, secure systems on my own,<br/>
   with a strong focus on encryption and multi-layered security.
 </p>
 
