@@ -7,11 +7,13 @@
 
 ---
 
-### 🚗 What I'm building
+### 💻 About me
 
-**[Roadlend](https://roadlend.com)** — a peer-to-peer car rental marketplace for Italy.
-
-Built and running in production: full booking flow, Stripe payments & host payouts, KYC verification, real-time chat with moderation, an admin panel with role/ban enforcement and audit logging, interactive Google Maps search, transactional email, and a hardened auth layer.
+- 🔭 I build complete web applications end-to-end and ship them to production
+- 🧩 I enjoy turning complex requirements into clean, reliable software
+- 🔒 Focused on secure authentication, payment flows, and solid architecture
+- ⚡ Big on performance, testing, and code that lasts
+- 🌱 Always sharpening my craft
 
 ---
 
