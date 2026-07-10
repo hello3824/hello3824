@@ -1,0 +1,57 @@
+<h1 align="center">Hi, I'm Yassin 👋</h1>
+
+<p align="center">
+  Full-stack developer from Italy — I design and ship complete products end-to-end,<br/>
+  from database and API to UI and production deployment.
+</p>
+
+---
+
+### 🚗 What I'm building
+
+**[Roadlend](https://roadlend.com)** — a peer-to-peer car rental marketplace for Italy.
+
+Built and running in production: full booking flow, Stripe payments & host payouts, KYC verification, real-time chat with moderation, an admin panel with role/ban enforcement and audit logging, interactive Google Maps search, transactional email, and a hardened auth layer.
+
+---
+
+### 🛠️ Tech stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+---
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hello3824&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hello3824&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+</p>
+
+---
+
+### 🐍 Watch the snake eat my contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hello3824/hello3824/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hello3824/hello3824/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/hello3824/hello3824/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+### 📫 Reach me
+
+- 🌐 Website — [roadlend.com](https://roadlend.com)
+- ✉️ Email — business@roadlend.com
