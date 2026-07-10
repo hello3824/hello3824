@@ -53,5 +53,4 @@ Built and running in production: full booking flow, Stripe payments & host payou
 
 ### 📫 Reach me
 
-- 🌐 Website — [roadlend.com](https://roadlend.com)
-- ✉️ Email — business@roadlend.com
+[![Telegram](https://img.shields.io/badge/Telegram-%40Mirai40-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mirai40)
