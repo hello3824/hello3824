@@ -32,15 +32,6 @@
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hello3824&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hello3824&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-</p>
-
----
-
 ### 🐍 Watch the snake eat my contributions
 
 <p align="center">
